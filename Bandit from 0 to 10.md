@@ -1,6 +1,9 @@
 # osoc_season1_Zhamshit_Kassymzhomart
-This repository is for practising the GitHub Flow
+
 Bandit game
+
+
+
 from 1 to 2
 ![photo1709399113](https://github.com/KassymzhomartZhamshit/osoc_season1_Zhamshit_Kassymzhomart/assets/161162897/14306790-89db-4e6b-ae12-1d5d52822330)
 
